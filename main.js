@@ -1,6 +1,6 @@
 var net = require('net');
 var fs = require('fs');
-var Authorize = require('./lib/Authorize.js');
+var Authorize = require('./lib/authorize.js');
 var Proxy = require('./lib/proxy.js');
 var ProxyMonitor = require('./lib/proxy-monitor.js');
 var util = require('util');
