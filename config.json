@@ -2,7 +2,9 @@
 	"role": "client",
 	"localPort": 8888,
 	"enableRemoteAccess": false,
-	"serverHost": "15.185.109.87",
-	"serverPort": 8888,
-	"key": "1a52173707ec6b114ffc8b33be3043eca43f2eb4"
+	"authorize": {
+		"serverHost": "15.185.109.87",
+		"serverPort": 5000,
+		"key": "1a52173707ec6b114ffc8b33be3043eca43f2eb4"
+	}
 }
