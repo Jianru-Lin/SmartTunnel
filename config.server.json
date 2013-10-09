@@ -1,0 +1,8 @@
+{
+	"role": "server",
+	"localPort": 8888,
+	"enableRemoteAccess": true,
+	"serverHost": "127.0.0.1",
+	"serverPort": 6666,
+	"key": "1a52173707ec6b114ffc8b33be3043eca43f2eb4"
+}
